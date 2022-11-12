@@ -55,7 +55,7 @@ section{
     padding-left: 30px;
     font-family: var(--fonte3);
     font-size: 3vw;
-    text-align: left;
+    padding-right: 5px;
 }
 
 section > h2 {
