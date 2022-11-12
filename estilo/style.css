@@ -12,6 +12,7 @@
     margin: 0px;
     padding: 0px;
     font-size: 1em;
+
 }
 
 html, body {
@@ -54,6 +55,7 @@ section{
     padding-left: 30px;
     font-family: var(--fonte3);
     font-size: 3vw;
+    text-align: left;
 }
 
 section > h2 {
